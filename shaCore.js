@@ -1,0 +1,2 @@
+var shaType = "";
+var shaValue = "";
